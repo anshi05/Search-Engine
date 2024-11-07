@@ -1,0 +1,10 @@
+------------------------------------------------
+misty
+file2.txt
+misty is founded in the row: 1 
+------------------------------------------------
+misty OR village
+file1.txt
+village is founded in the row: 2 
+file2.txt
+misty  is founded in the row: 1 

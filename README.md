@@ -26,7 +26,7 @@ This project is a simple file-based search engine implemented in C++. It allows 
 2. Compile the C++ files using the following command:
 
    ```bash
-   g++ CS163.cpp helperMethod.cpp trie.cpp -o search_engine.exe
+   g++ search.cpp helperFunction.cpp trie.cpp -o search_engine.exe
    ```
 3. This will create an executable file named `search_engine.exe`.
 
