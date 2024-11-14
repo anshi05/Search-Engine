@@ -8,10 +8,10 @@ This project is a simple file-based search engine implemented in C++. It allows 
 - **File-based Search**: Reads queries from a specified file (`query.txt`).
 - **Results Output**: Outputs the results of each query into `answer.txt`.
 
-## Prerequisites
+## Workflow
 
-- **C++ Compiler**: Ensure you have a C++ compiler installed (e.g., `g++` for Windows, Linux, or macOS).
-- **Basic Command Line Knowledge**: You will need to compile and run the code from the command line.
+![image](https://github.com/user-attachments/assets/a232e4f1-567b-497a-99d5-17bccfa5c415)
+
 
 ## Setup Instructions
 
